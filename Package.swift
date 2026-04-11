@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "1.0.1"
-let checksum = "78025b0eb86629316c0628cdaf15fa24c98390ff439c841c088127c83d24ac7b"
+let version = "1.0.2"
+let checksum = "cac122fce428be733600d963c1dcd7959c9072b9de7ea73762ad6076dd97c19f"
 
 let package = Package(
     name: "VersionConfigSDK",
